@@ -16,3 +16,18 @@
 ## 🛠️ Built For
 - Animal shelters, rescue organizations, and communities looking to streamline adoption processes and raise public awareness about pet adoption.
 
+## Project Structure
+
+```
+Project/
+├── features/
+│   ├── adoption/       # Pet listings + search/filter
+│   ├── directory/      # Shelters + resources  
+│   ├── education/      # Guides + blogs
+│   ├── campaigns/      # Awareness features
+│   └── analytics/      # Dashboard
+|
+├── requirements.txt                                     # dependencies (install requirement libraries)
+└── README.md
+```
+
